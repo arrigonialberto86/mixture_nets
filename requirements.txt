@@ -1,0 +1,7 @@
+-e .
+tensorflow
+tensorflow-probability
+keras
+numpy
+pandas
+scipy
